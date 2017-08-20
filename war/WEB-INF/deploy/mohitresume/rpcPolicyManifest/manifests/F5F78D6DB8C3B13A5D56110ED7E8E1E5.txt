@@ -1,0 +1,2 @@
+serviceClass: com.mohit.resume.client.GreetingService
+path: 5146F7D762D3A114FC69705727BBEA9B.gwt.rpc
