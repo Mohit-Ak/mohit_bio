@@ -1,2 +1,3 @@
 # Module mohitresume
 # RPC service class, partial path of RPC policy file
+com.mohit.resume.client.GreetingService, 5146F7D762D3A114FC69705727BBEA9B.gwt.rpc
